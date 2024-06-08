@@ -1,4 +1,4 @@
-<h2 align="center">Openai Detector</h2>
+<h2 align="center">Ai Text Detector</h2>
 <p align="center">
   <p align="center">Open AI classifier for indicating AI-written text
 </p>
